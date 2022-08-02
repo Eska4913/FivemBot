@@ -1,0 +1,21 @@
+{
+  "name": "Eska",
+  "version": "1.0.0",
+  "description": "Discord.js bot for fivem server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eska",
+  "license": "ISC",
+  "dependencies": {
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^12.5.1",
+    "fivereborn-query": "^1.0.4",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "request": "^2.88.2"
+  }
+}

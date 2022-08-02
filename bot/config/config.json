@@ -1,0 +1,24 @@
+{
+    "ownerid":"twojeid",
+
+    "token":"token bota",
+
+    "prefix":"!",  
+
+    "kategoriaprzywitania" : "RolePlay",   
+
+    "iconServerURL" : "link do ikony serwera",
+
+    "serverName" : "nazwa serwera",
+
+    "guildid" : "id serwera",
+
+    "serverColor": "#000000 - kolor serwera",
+
+    "rrbot": "id kanału gdzie bot wysyła info o odpaleniu",
+
+    "powitania": "kanał z powitaniami",
+
+    "ipServerWithPort" : "http://185.117.3.196:30120/players.json",
+    "sloty" : "/200"
+}
